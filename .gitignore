@@ -1,0 +1,9 @@
+.idea
+
+/todolist-server/.idea
+/todolist-server/target
+/todolist-server/todolist.iml
+
+/todolist-web/.idea
+/todolist-web/node_modules
+/todolist-web/build
